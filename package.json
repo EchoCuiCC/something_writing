@@ -1,0 +1,17 @@
+{
+  "name": "change2gltf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "change2gltf.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "obj2gltf": "^3.1.4"
+  }
+}
